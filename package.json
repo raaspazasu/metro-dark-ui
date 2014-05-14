@@ -1,0 +1,11 @@
+{
+  "name": "metro-dark-ui",
+  "theme": "ui",
+  "version": "0.0.1",
+  "description": "Metro styled dark interface for Atom",
+  "license": "MIT",
+  "repository": "",
+  "engines": {
+    "atom": ">0.40.0"
+  }
+}
